@@ -17,6 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         var numero = 0
-        var numero2 = 2
+        var numero3 = 2
     }
 }
