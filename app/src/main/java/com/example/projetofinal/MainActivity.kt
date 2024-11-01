@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
         }
         var numero = 0
         var numero4 = 2
+        var numero3 = 2
     }
 }
