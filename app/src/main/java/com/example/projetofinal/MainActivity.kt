@@ -27,6 +27,9 @@ class MainActivity : AppCompatActivity() {
             LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
 
         recyclerView.adapter = customAdapter
+
+
+        val num = 0
     }
 
     private fun listTask(): List<Task> {
