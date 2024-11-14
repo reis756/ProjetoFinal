@@ -1,5 +1,4 @@
-package com.example.projetofinal
-
+package com.example.projetofinal.model
 
 data class Task(
     val title: String,

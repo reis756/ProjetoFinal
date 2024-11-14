@@ -1,10 +1,12 @@
-package com.example.projetofinal
+package com.example.projetofinal.ui
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.projetofinal.R
+import com.example.projetofinal.model.Task
 
 class TaskAdapter(private val dataSet: List<Task>) :
     RecyclerView.Adapter<TaskViewHolder>() {

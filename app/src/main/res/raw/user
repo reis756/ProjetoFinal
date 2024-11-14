@@ -1,0 +1,18 @@
+{
+	“nome”: “Rodrigo”,
+	“foto”: “fotos/imagem_contato1”,
+	“mensagens”: [
+		mensagem : {
+			“texto”: “me liga”,
+			“data_hora”:”11/11/2024 19:00”
+		},
+		mensagem : {
+			“texto”: “me liga”,
+			“data_hora”:”11/11/2024 19:00”
+		},
+		mensagem : {
+			“texto”: “me liga”,
+			“data_hora”:”11/11/2024 19:00”
+		},
+	]
+}
