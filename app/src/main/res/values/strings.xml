@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Projeto Final</string>
+    <string name="name">Nome: %s</string>
+    <string name="age">Idade: %s</string>
+    <string name="name_hint">Nome:</string>
+    <string name="age_hint">Idade:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Adicionar</string>
 </resources>
